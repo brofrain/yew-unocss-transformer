@@ -1,6 +1,6 @@
 # yew-unocss-transformer
 
-> Yew classes macro with variant group transformer
+> Yew classes macro with variant group transformer for UnoCSS
 
 This crate provides `uno!` macro that applies [@unocss/transformer-variant-group](https://github.com/unocss/unocss/tree/main/packages/transformer-variant-group) to given string literals.
 
