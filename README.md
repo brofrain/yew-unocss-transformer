@@ -1,3 +1,8 @@
+## ⚠️ This crate is no longer maintained ⚠️
+
+The Variant Groups feature of this package is no longer in sync with the present versions of UnoCSS, therefore you should avoid using it. Also, utilizing a dedicated UnoCSS preset to parse Rust files is no longer necessary.\
+[unocss-classes](https://crates.io/crates/unocss-classes) has been created as the replacement. It adds a few new features and aims to support more Rust frontend frameworks than just Yew.
+
 # yew-unocss-transformer
 
 > Yew classes macro with variant group transformer for UnoCSS

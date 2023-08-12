@@ -1,13 +1,12 @@
 [package]
 name = "yew-unocss-transformer"
-version = "0.0.1"
+version = "0.0.2"
 edition = "2021"
 description = "Yew classes macro with variant group transformer for UnoCSS"
 repository = "https://github.com/brofrain/yew-unocss-transformer"
 homepage = "https://github.com/brofrain/yew-unocss-transformer"
 license = "MIT"
 keywords = ["yew", "unocss"]
-
 
 [dependencies]
 yew = "0.19.3"
